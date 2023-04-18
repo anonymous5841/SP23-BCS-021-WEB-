@@ -1,0 +1,144 @@
+.b1
+{   
+    border: 5px solid black;
+    height: 1040px;
+}
+
+.img1
+{
+
+ border: 4px solid rgb(31, 118, 152);
+ width: 1300px;
+ height: 500px;
+ margin-left: 2cm;
+ margin-top: 1cm;
+}
+
+.d1
+{
+ 
+    border: 3px solid darkcyan;
+    display: inline-block;
+    margin-left: 2cm;
+    padding-left: 2.5cm;
+    padding-top: 0.5cm;
+    padding-right: 2.5cm;
+    padding-bottom: 0.5cm;
+}
+
+.d2
+{
+    border: 3px solid darkcyan;
+    display: inline-block;
+    padding-left: 2.5cm;
+    padding-top: 0.5cm;
+    padding-right: 2.5cm;
+    padding-bottom: 0.5cm;
+}
+
+.d3
+{
+    border: 3px solid darkcyan;
+    display: inline-block;
+    padding-left: 3.45cm;
+    padding-top: 0.5cm;
+    padding-right: 3.42cm;
+    padding-bottom: 0.5cm;
+
+}
+
+.d4
+{ 
+    border: 3px solid darkcyan;
+    display: inline-block;
+    padding-left: 2.5cm;
+    padding-top: 0.5cm;
+    padding-right: 2.5cm;
+    padding-bottom: 0.5cm;
+}
+
+.d5
+{
+    border: 3px solid darkcyan;
+    display: inline-block;
+    padding-left: 2.5cm;
+    padding-top: 0.5cm;
+    padding-right: 2.5cm;
+    padding-bottom: 0.5cm;
+
+}
+
+.dm1
+{
+  border: 3px solid rosybrown;
+  display: inline-block;
+  margin-left: 3cm;
+  margin-top: 2cm;
+  padding-top: 1.75cm;
+  padding-bottom: 1.75cm;
+  padding-right: 1cm;
+}
+
+.dm2
+{
+   border: 4px solid salmon;
+  display: inline-block;
+  margin-left: 6cm;
+  margin-top: 0.5cm;
+  padding-top: cm;
+  padding-bottom: 0.75cm;
+  padding-right: 0.5cm;
+  padding-left: 0.5cm;
+  margin-right: 5cm;
+
+}
+
+.sd1
+{ 
+     padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+    border: 3px solid rebeccapurple;
+}
+
+.sd2
+{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+    border: 3px solid rebeccapurple;
+}
+
+.sd3
+{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+    border: 3px solid rebeccapurple;
+}
+
+.sd4
+{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+    border: 3px solid rebeccapurple;
+}
+
+.rd1
+{
+    margin-left: 3cm;
+}
+
+.main
+{
+    border: 4px solid brown;
+    display: inline-block;
+   margin-left: 2cm;
+   
+    
+}
